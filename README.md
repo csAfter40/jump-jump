@@ -1,8 +1,8 @@
-##Jump Jump
+## Jump Jump
 
 Jump Jump is a vertical endless platformer game written in Python using the Pygame module. The aim is to achieve the highest score by reaching higher platforms and collecting coins.
 
-###Here are some facts about game mechanics:
+### Here are some facts about game mechanics:
 * The player can jump higher by holding down the jump key for a longer duration.
 * The player can shoot bullets to eliminate enemies.
 * Platforms become shorter as the player progresses in the game.
@@ -14,7 +14,7 @@ Jump Jump is a vertical endless platformer game written in Python using the Pyga
 * There are two kinds of power-ups available: high jump and extra ammo.
 * The high jump power-up enables the user to jump almost twice as high as the normal jump, but it is only available for a limited period of time.
 
-###Installation and running the game:
+### Installation and running the game:
 1. You need to install Pygame module:
 ```pip install pygame```
 2. Navigate to the game directory and run the following command:
